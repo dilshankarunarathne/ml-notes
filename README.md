@@ -1,3 +1,3 @@
 # Machine Learning 
  
-Machine Learning, is the field of study 
+Machine Learning, is the field of study that gives computers 
