@@ -1,2 +1,2 @@
-# studying-ml
+# Machine Learning Notes
  My 
