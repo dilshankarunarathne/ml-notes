@@ -15,9 +15,8 @@ measure P - if its performance on T, as measured by P, improves with experience 
 
 ## Types of Machine learning algorithms 
 
-+ Supervised learning 
-+ Unsupervised learning
-+ Other:
-  + Reinforcement learning
-  + Recommender systems
+* Common:
+  + Supervised learning 
+  + Unsupervised learning
+
 
