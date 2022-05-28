@@ -96,4 +96,4 @@ language like C++ or Java.
 ![5-notation](C:\Projects\studying-ml\assets\5-notation.png "Notations")
 
 (x,y) = One training example  
-(x<sup>i</sup>,y<sup>i</sup>) = 
+(x<sup>i</sup>,y<sup>i</sup>) = i<sup>th<sup> 
