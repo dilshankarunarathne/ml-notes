@@ -30,3 +30,5 @@ With this given data set, we can use a liner, quadratic or any other
 algorithm to presume the value of a certain house based on it's size.   
 This is a good example of **supervised learning**. We give the algorithm 
 a set of "**right answers**" for it to learn.  
+After we gave the algorithm a dataset of "right prices" those houses were
+sold 
