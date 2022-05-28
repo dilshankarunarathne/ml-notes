@@ -51,3 +51,5 @@ into two clusters.
 (Mostly) in unsupervised learning, what the dataset actually mean doesn't 
 matter to the algorithm.  
 They try to identify structures in the data.  
+This is also called 'clustered learning'.  
+
