@@ -16,4 +16,6 @@ measure P - if its performance on T, as measured by P, improves with experience 
 ## Machine learning algorithms 
 
 + Supervised learning 
++ Unsupervised learning
 + 
+
