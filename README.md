@@ -19,4 +19,5 @@ measure P - if its performance on T, as measured by P, improves with experience 
 + Unsupervised learning
 + Other:
   + Reinforcement learning
+  + Recommender systems
 
