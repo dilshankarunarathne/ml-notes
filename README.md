@@ -110,3 +110,4 @@ The term _hypothesis_ is not actually a great name in this sense. But it
 was used since the early days of machine learning and now we are kind of 
 stuck with it.  
 
+h<sub>θ</sub>(x) 
