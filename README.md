@@ -32,3 +32,5 @@ This is a good example of **supervised learning**. We give the algorithm
 a set of "**right answers**" for it to learn.  
 After we gave the algorithm a dataset of **right prices** those houses were
 sold, what the algorithm had to do was, to generate more of these prices.  
+
+This is also formally known as **Regression**
