@@ -13,7 +13,7 @@ measure P - if its performance on T, as measured by P, improves with experience 
                                                   - Tom Mitchell (1959)
 </pre>
 
-## Machine learning algorithms 
+## Types of Machine learning algorithms 
 
 + Supervised learning 
 + Unsupervised learning
