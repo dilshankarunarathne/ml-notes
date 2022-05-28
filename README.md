@@ -35,3 +35,5 @@ sold, what the algorithm had to do was, to generate more of these prices.
 
 This is also called a **Regression** problem. We are trying to predict 
 **a continuous valued output**. 
+
+Classification problems. --write a note
