@@ -94,3 +94,5 @@ language like C++ or Java.
 ## Model Representation
 
 ![5-notation](C:\Projects\studying-ml\assets\5-notation.png "Notations")
+
+(x,y) 
