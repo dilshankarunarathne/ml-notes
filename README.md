@@ -36,6 +36,6 @@ sold, what the algorithm had to do was, to generate more of these prices.
 This is also called a **Regression** problem. We are trying to predict 
 **a continuous valued output**. 
 
-Consider another scenario. We have given a dataset of people who checked 
+Consider another scenario. We have given a dataset of people who tested 
 for brest cancer 
 Classification problems. --write a note
