@@ -82,5 +82,6 @@ code...
 
 ![A single line of code](\assets\4-one-line.png "assets/4-one-line")
 
-In this, we will be using [Octave](https://www.gnu.org/software/octave).
-[Octave](https://www.gnu.org/software/octave) is an open-source 
+In this, we will be using [Octave](https://www.gnu.org/software/octave).  
+[Octave](https://www.gnu.org/software/octave) is an open-source software. 
+
