@@ -86,4 +86,6 @@ In this, we will be using [Octave](https://www.gnu.org/software/octave).
 [Octave](https://www.gnu.org/software/octave) is an open-source software. 
 With an application like [Octave](https://www.gnu.org/software/octave) 
 or [Matlab](https://www.mathworks.com/products/matlab.html), we can 
-implement algorithms like these with only a few lines of code.  
+implement algorithms like these with only a few lines of code. Also, with
+[Octave](https://www.gnu.org/software/octave) environment, we can prototype 
+our algorithms before we build applications or 
