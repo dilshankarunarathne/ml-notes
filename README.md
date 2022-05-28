@@ -28,4 +28,5 @@ measure P - if its performance on T, as measured by P, improves with experience 
 
 With this given data set, we can use a liner, quadratic or any other 
 algorithm to presume the value of a certain house based on it's size.   
-This is a good example of **supervised learning**. 
+This is a good example of **supervised learning**. We give the algorithm 
+a dataset 
