@@ -41,3 +41,5 @@ for brest cancer against the type of the brest cancer detected. Let's say
 In this case, we have to predict which event happens in a set of possible 
 events. This is an example of a **Classification problem**.  
 
+### Unsupervised learning
+
