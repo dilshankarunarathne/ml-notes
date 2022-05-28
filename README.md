@@ -37,5 +37,6 @@ This is also called a **Regression** problem. We are trying to predict
 **a continuous valued output**. 
 
 Consider another scenario. We have given a dataset of people who tested 
-for brest cancer against the type of the brest cancer detected.  
+for brest cancer against the type of the brest cancer detected. Let's say 
+0 - no cancer, 1 - type A, 
 Classification problems. --write a note
