@@ -48,3 +48,4 @@ Here's a dataset, find some structure in it.
 Given this dataset, the algorithm should find that the data is divided
 into two clusters.  
 
+(Mostly) in unsupervised learning, 
