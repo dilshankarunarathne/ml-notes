@@ -34,4 +34,4 @@ After we gave the algorithm a dataset of **right prices** those houses were
 sold, what the algorithm had to do was, to generate more of these prices.  
 
 This is also called a **Regression** problem. We are trying to predict 
-**a continuous valued output**.
+**a continuous valued output**. 
