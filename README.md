@@ -115,4 +115,4 @@ stuck with it.
 h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x  
 Shorthand way of representing h<sub>θ</sub>(x) is h(x).  
 
-This is a representation of 
+This is a representation of linear **regression with one variable**.  
