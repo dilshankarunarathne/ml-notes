@@ -75,4 +75,5 @@ So, anyone might see this example of unsupervised learning and think,
 this algorithm must be very complicated to implement. And it must be 
 very hard to build an application like this...  
 
-The algorithm sure is not easy to implement. But thankfully, 
+The algorithm sure is not easy to implement. But thankfully, with the 
+correct programming environment, 
