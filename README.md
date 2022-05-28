@@ -91,3 +91,6 @@ implement algorithms like these with only a few lines of code. Also, with
 our algorithms before we build applications or implement them with a 
 language like C++ or Java.  
 
+## Model Representation
+
+
