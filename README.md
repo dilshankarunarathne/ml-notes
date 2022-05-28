@@ -76,4 +76,4 @@ this algorithm must be very complicated to implement. And it must be
 very hard to build an application like this...  
 
 The algorithm sure is not easy to implement. But thankfully, with the 
-correct programming environment, 
+correct programming environment, there are libraries that we can use. 
