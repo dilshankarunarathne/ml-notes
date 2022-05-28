@@ -26,4 +26,5 @@ measure P - if its performance on T, as measured by P, improves with experience 
 
 ![assets/1-housing-price](\assets\1-housing-price.png)
 
-With this given data set, we can use a liner, quadratic 
+With this given data set, we can use a liner, quadratic or any other 
+algorithm 
