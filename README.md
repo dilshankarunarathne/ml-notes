@@ -66,4 +66,5 @@ to Speaker #2.
 
 When we listen to those two recordings, both of those would contain - both 
 Speaker #1 and Speaker #2 's voice.  
-When (one of or both of) these 
+When (one of or both of) these recordings are given to an unsupervised 
+learning algorithm, that algorithm should be able to 
