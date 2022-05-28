@@ -56,5 +56,5 @@ This is also called 'clustered learning'.
 #### The Cocktail Party Problem 
 
 Consider this scenario...   
-At a cocktail party, there are two main people talking in two different 
+At a cocktail party, there are two (main) people talking in two different 
 groups. 
