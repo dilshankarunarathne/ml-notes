@@ -8,5 +8,5 @@ to learn without being explicitly programmed.
 
 <pre>
  
-                                                  - Arthur Samuel (1959)
+                                                  - Tom Mitchell (1959)
 </pre>
