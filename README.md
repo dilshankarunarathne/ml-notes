@@ -93,7 +93,7 @@ language like C++ or Java.
 
 ## Model Representation
 
-![5-notation](C:\Projects\studying-ml\assets\5-notation.png "Notations")
+![Notations](C:\Projects\studying-ml\assets\5-notation.png "assets\5-notation.png")
 
 **m** = Number of training examples  
 **x** = An **input** variable / features  
@@ -102,4 +102,4 @@ language like C++ or Java.
 **(x<sup>i</sup>,y<sup>i</sup>)** = i<sup>th</sup> training example  
 **h** = hypothesis  
 
-
+![The Model](C:\Projects\studying-ml\assets\6-model.png "assets\6-model.png")
