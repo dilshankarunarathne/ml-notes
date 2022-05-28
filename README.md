@@ -65,4 +65,4 @@ to Speaker #2.
 ![Cocktail Party](\assets\3-cocktail-party.png "assets/3-cocktail-party")
 
 When we listen to those two recordings, both of those would contain - both 
-Speaker 
+Speaker #1 and Speaker #2 's voice.  
