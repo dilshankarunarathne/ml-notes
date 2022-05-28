@@ -41,3 +41,4 @@ for brest cancer against the type of the brest cancer detected. Let's say
 0 - no cancer, 1 - type A, 2 - type B, 3 - type 3 (this is not a real thing...)  
 In this case, we have to predict which event happens in a set of possible 
 events. This is an example of a **Classification problem**.  
+
