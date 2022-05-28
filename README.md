@@ -7,6 +7,7 @@ to learn without being explicitly programmed.
 </pre>
 
 <pre>
-Well-posed Learning Problem: A computer program is said to 
+Well-posed Learning Problem: A computer program is said to learn from 
+experience 
                                                   - Tom Mitchell (1959)
 </pre>
