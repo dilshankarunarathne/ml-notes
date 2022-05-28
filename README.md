@@ -72,3 +72,4 @@ are two different sources of data, that are mixed together into the same
 dataset. And it should be able to isolate each source and give two outputs.  
 
 So, anyone might see this example of unsupervised learning and think, 
+this algorithm must be very complicated to implement. And 
