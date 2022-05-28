@@ -104,4 +104,4 @@ language like C++ or Java.
 
 ![The Model](C:\Projects\studying-ml\assets\6-model.png "assets\6-model.png")
 
-Hypothesis **h** is a function that maps from input 
+Hypothesis **h** is a function that maps from input x's to y's.  
