@@ -7,6 +7,6 @@ to learn without being explicitly programmed.
 </pre>
 
 <pre>
- 
+
                                                   - Tom Mitchell (1959)
 </pre>
