@@ -95,7 +95,7 @@ language like C++ or Java.
 
 ![5-notation](C:\Projects\studying-ml\assets\5-notation.png "Notations")
 
-m = Number of training examples  
+**m** = Number of training examples  
 x = an **input** variable / features  
 (x,y) = One training example  
 (x<sup>i</sup>,y<sup>i</sup>) = i<sup>th</sup> training example  
