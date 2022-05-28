@@ -49,4 +49,5 @@ Given this dataset, the algorithm should find that the data is divided
 into two clusters.  
 
 (Mostly) in unsupervised learning, what the dataset actually mean doesn't 
-matter to the algorithm. 
+matter to the algorithm.  
+They try to identify structures in the data.  
