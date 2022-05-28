@@ -22,3 +22,5 @@ measure P - if its performance on T, as measured by P, improves with experience 
     + Reinforcement learning
     + Recommender systems
 
+### Supervised learning
+
