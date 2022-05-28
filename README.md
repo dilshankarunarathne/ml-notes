@@ -112,4 +112,4 @@ stuck with it.
 
 #### Hypothesis Representation 
 
-h<sub>θ</sub>(x) = θ<sub>0</sub>
+h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>
