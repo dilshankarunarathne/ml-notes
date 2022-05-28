@@ -107,4 +107,6 @@ language like C++ or Java.
 Hypothesis **h** is a function that maps from input x's to y's.  
 
 The term _hypothesis_ is not actually a great name in this sense. But it 
-was used since the early days of machine learning 
+was used since the early days of machine learning and now we are kind of 
+stuck with it.  
+
