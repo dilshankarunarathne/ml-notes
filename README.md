@@ -24,7 +24,7 @@ measure P - if its performance on T, as measured by P, improves with experience 
 
 ### Supervised learning
 
-![assets/1-housing-price](\assets\1-housing-price.png)
+![Plot of prices against the size of houses](\assets\1-housing-price.png "assets/1-housing-price")
 
 With this given data set, we can use a liner, quadratic or any other 
 algorithm to presume the value of a certain house based on it's size.   
