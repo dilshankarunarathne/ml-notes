@@ -100,4 +100,6 @@ language like C++ or Java.
 **y** = An **output** variable / target variable  
 **(x,y)** = One training example  
 **(x<sup>i</sup>,y<sup>i</sup>)** = i<sup>th</sup> training example  
+h = hypothesis  
+
 
