@@ -45,4 +45,4 @@ events. This is an example of a **Classification problem**.
 
 Here's a dataset, find some structure in it.
 ![Clustered plot](\assets\2-clusters.png "assets/2-clusters")
- 
+Given this dataset, the algorithm should find that
