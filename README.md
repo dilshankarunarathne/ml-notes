@@ -59,4 +59,6 @@ Consider this scenario...
 At a cocktail party, there are two (main) people talking in two different 
 groups. (Lets isolate these two speakers, and forget about all the other 
 listeners in there)...   
-If we put two microphones, 
+If we put two microphones, one closer to Speaker #1, 
+
+![Cocktail Party](\assets\3-cocktail-party.png "assets/3-cocktail-party") 
