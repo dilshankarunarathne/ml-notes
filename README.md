@@ -24,5 +24,5 @@ measure P - if its performance on T, as measured by P, improves with experience 
 
 ### Supervised learning
 
-![]("https://github.com/dilshankarunarathne/ml-notes/raw/main/assets/1-housing-price.png")
+![](\assets\1-housing-price.png)
 
