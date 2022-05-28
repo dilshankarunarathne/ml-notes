@@ -103,3 +103,5 @@ language like C++ or Java.
 **h** = hypothesis  
 
 ![The Model](C:\Projects\studying-ml\assets\6-model.png "assets\6-model.png")
+
+Hypothesis is a function that takes input 
