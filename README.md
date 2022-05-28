@@ -113,4 +113,4 @@ stuck with it.
 #### Hypothesis Representation 
 
 h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x  
-Short 
+Shorthand way of representing h<sub>θ</sub>(x) is h(x).  
