@@ -69,4 +69,4 @@ Speaker #1 and Speaker #2 's voice.
 When (one of or both of) these recordings are given to an unsupervised 
 learning algorithm, that algorithm should be able to identify that there 
 are two different sources of data, that are mixed together into the same 
-dataset. And 
+dataset. And it should be able to separate one
