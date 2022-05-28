@@ -80,3 +80,4 @@ correct programming environment, there are libraries that we can use.
 And actually, we can build this kind of application with just one line of 
 code...  
 
+![A single line of code](\assets\4-one-line.png "assets/4-one-line")
