@@ -7,6 +7,6 @@ to learn without being explicitly programmed.
 </pre>
 
 <pre>
-Machine Learning, is a well-posed learning 
+Well-posed learning 
                                                   - Tom Mitchell (1959)
 </pre>
