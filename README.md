@@ -57,4 +57,5 @@ This is also called 'clustered learning'.
 
 Consider this scenario...   
 At a cocktail party, there are two (main) people talking in two different 
-groups. 
+groups. (Lets isolate these two speakers, and forget about all the other 
+listeners in there)...   
