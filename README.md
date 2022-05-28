@@ -62,4 +62,5 @@ listeners in there)...
 If we put two microphones, one closer to Speaker #1, and the other closer 
 to Speaker #2.  
 
-![Cocktail Party](\assets\3-cocktail-party.png "assets/3-cocktail-party") 
+![Cocktail Party](\assets\3-cocktail-party.png "assets/3-cocktail-party")
+
