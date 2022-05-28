@@ -97,7 +97,7 @@ language like C++ or Java.
 
 **m** = Number of training examples  
 **x** = An **input** variable / features  
-**y** = An **output** variable / features  
+**y** = An **output** variable / target variable  
 **(x,y)** = One training example  
 **(x<sup>i</sup>,y<sup>i</sup>)** = i<sup>th</sup> training example  
 
