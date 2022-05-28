@@ -77,3 +77,6 @@ very hard to build an application like this...
 
 The algorithm sure is not easy to implement. But thankfully, with the 
 correct programming environment, there are libraries that we can use. 
+And actually, we can build this kind of application with just one line of 
+code...  
+
